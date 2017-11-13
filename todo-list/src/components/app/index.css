@@ -1,0 +1,12 @@
+aside {
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    background: #e2e2e2;
+}
+
+section {
+    display: inline-block;
+    padding: 20px;
+    vertical-align: top;
+}
